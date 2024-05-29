@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  h1 {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: auto;
+  }
+  
+  form div {
+    margin-bottom: 1em;
+  }
+  
+  form label {
+    margin-bottom: 0.5em;
+  }
+  
+  form input {
+    padding: 0.5em;
+    font-size: 1em;
+  }
+  
+  button {
+    padding: 0.5em;
+    font-size: 1em;
+    cursor: pointer;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  ul li {
+    margin-bottom: 0.5em;
+  }
+  
+  a {
+    text-decoration: none;
+    color: blue;
+  }
+  

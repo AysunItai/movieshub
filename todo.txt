@@ -1,0 +1,5 @@
+
+2.when we login we want to go to movies lists page 
+from the list page we will also have a button to go a create new movie page
+3.when we click to movie we go to a details page 
+3.in movie details page we will have update and delete buttons 
